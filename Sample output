@@ -1,18 +1,4 @@
-Unemployment rates based on education levels:
-
-Bachelor's: 4.0%
-Associate's: 5.5%
-High school diploma: 7.5%
-No high school diploma: 10.3%
-
-Tabular data with categories and percentages:
-| Category   | Percentage |
-|------------|------------|
-| Category A | 35%        |
-| Category B | 25%        |
-| Category C | 40%        |
-
-Sample Output From the above data extracted from a pdf:
+Sample Output extracted from a pdf:
 
 Unemployment rates based on the type of degree:
 - Bachelor's: 4.0%
